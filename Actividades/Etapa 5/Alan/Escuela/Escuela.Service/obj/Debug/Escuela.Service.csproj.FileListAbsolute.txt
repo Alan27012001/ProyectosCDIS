@@ -1,0 +1,12 @@
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Alan\Escuela\Escuela.Service\bin\Escuela.Service.dll.config
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Alan\Escuela\Escuela.Service\bin\Escuela.Service.dll
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Alan\Escuela\Escuela.Service\bin\Escuela.Service.pdb
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Alan\Escuela\Escuela.Service\bin\EntityFramework.dll
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Alan\Escuela\Escuela.Service\bin\EntityFramework.SqlServer.dll
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Alan\Escuela\Escuela.Service\bin\EntityFramework.xml
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Alan\Escuela\Escuela.Service\bin\EntityFramework.SqlServer.xml
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Alan\Escuela\Escuela.Service\obj\Debug\Escuela.Service.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Alan\Escuela\Escuela.Service\obj\Debug\Escuela.Service.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Alan\Escuela\Escuela.Service\obj\Debug\Escuela.Service.csproj.CopyComplete
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Alan\Escuela\Escuela.Service\obj\Debug\Escuela.Service.dll
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Alan\Escuela\Escuela.Service\obj\Debug\Escuela.Service.pdb

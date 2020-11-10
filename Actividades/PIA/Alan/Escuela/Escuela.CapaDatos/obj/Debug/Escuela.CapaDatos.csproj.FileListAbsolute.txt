@@ -1,0 +1,20 @@
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Alan\Escuela\Escuela.CapaDatos\bin\Debug\Escuela.CapaDatos.dll.config
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Alan\Escuela\Escuela.CapaDatos\bin\Debug\Escuela.CapaDatos.dll
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Alan\Escuela\Escuela.CapaDatos\bin\Debug\Escuela.CapaDatos.pdb
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Alan\Escuela\Escuela.CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Alan\Escuela\Escuela.CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Alan\Escuela\Escuela.CapaDatos\obj\Debug\Escuela.CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Alan\Escuela\Escuela.CapaDatos\obj\Debug\Escuela.CapaDatos.csproj.CopyComplete
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Alan\Escuela\Escuela.CapaDatos\obj\Debug\Escuela.CapaDatos.dll
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Alan\Escuela\Escuela.CapaDatos\obj\Debug\Escuela.CapaDatos.pdb
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Alan\Escuela\Escuela.CapaDatos\obj\Debug\Escuela.CapaDatos.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\CDIS\Actividades\PIA\Alan\Escuela\Escuela.CapaDatos\bin\Debug\Escuela.CapaDatos.dll.config
+C:\Users\Alan\Desktop\CDIS\Actividades\PIA\Alan\Escuela\Escuela.CapaDatos\bin\Debug\Escuela.CapaDatos.dll
+C:\Users\Alan\Desktop\CDIS\Actividades\PIA\Alan\Escuela\Escuela.CapaDatos\bin\Debug\Escuela.CapaDatos.pdb
+C:\Users\Alan\Desktop\CDIS\Actividades\PIA\Alan\Escuela\Escuela.CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\Alan\Desktop\CDIS\Actividades\PIA\Alan\Escuela\Escuela.CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\Alan\Desktop\CDIS\Actividades\PIA\Alan\Escuela\Escuela.CapaDatos\obj\Debug\Escuela.CapaDatos.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\CDIS\Actividades\PIA\Alan\Escuela\Escuela.CapaDatos\obj\Debug\Escuela.CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\CDIS\Actividades\PIA\Alan\Escuela\Escuela.CapaDatos\obj\Debug\Escuela.CapaDatos.csproj.CopyComplete
+C:\Users\Alan\Desktop\CDIS\Actividades\PIA\Alan\Escuela\Escuela.CapaDatos\obj\Debug\Escuela.CapaDatos.dll
+C:\Users\Alan\Desktop\CDIS\Actividades\PIA\Alan\Escuela\Escuela.CapaDatos\obj\Debug\Escuela.CapaDatos.pdb

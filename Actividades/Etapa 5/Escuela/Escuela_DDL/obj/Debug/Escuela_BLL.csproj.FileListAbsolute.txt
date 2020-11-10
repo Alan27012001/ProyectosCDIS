@@ -1,0 +1,9 @@
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Escuela\Escuela_DDL\bin\Debug\Escuela_DDL.dll
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Escuela\Escuela_DDL\bin\Debug\Escuela_DDL.pdb
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Escuela\Escuela_DDL\bin\Debug\Escuela_DAL.dll
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Escuela\Escuela_DDL\bin\Debug\Escuela_DAL.pdb
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Escuela\Escuela_DDL\obj\Debug\Escuela_BLL.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Escuela\Escuela_DDL\obj\Debug\Escuela_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Escuela\Escuela_DDL\obj\Debug\Escuela_BLL.csproj.CopyComplete
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Escuela\Escuela_DDL\obj\Debug\Escuela_DDL.dll
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Escuela\Escuela_DDL\obj\Debug\Escuela_DDL.pdb

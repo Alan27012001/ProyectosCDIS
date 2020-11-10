@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escuela", "Escuela\Escuela.csproj", "{772F3253-1E1E-4D3E-B23E-700E7487E590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escuela_DAL", "Escuela_DAL\Escuela_DAL.csproj", "{DB5E0603-3CA7-489A-A822-4FD0A5E8F32B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escuela_BLL", "Escuela_DDL\Escuela_BLL.csproj", "{6A695DEC-DF7D-467E-A161-B456C64CA39B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{772F3253-1E1E-4D3E-B23E-700E7487E590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772F3253-1E1E-4D3E-B23E-700E7487E590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772F3253-1E1E-4D3E-B23E-700E7487E590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772F3253-1E1E-4D3E-B23E-700E7487E590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB5E0603-3CA7-489A-A822-4FD0A5E8F32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5E0603-3CA7-489A-A822-4FD0A5E8F32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5E0603-3CA7-489A-A822-4FD0A5E8F32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5E0603-3CA7-489A-A822-4FD0A5E8F32B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A695DEC-DF7D-467E-A161-B456C64CA39B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A695DEC-DF7D-467E-A161-B456C64CA39B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A695DEC-DF7D-467E-A161-B456C64CA39B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A695DEC-DF7D-467E-A161-B456C64CA39B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C074D65-9572-4ECD-BC0C-BE6116A6A035}
+	EndGlobalSection
+EndGlobal

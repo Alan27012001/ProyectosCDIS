@@ -1,0 +1,6 @@
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Escuela\Escuela_DAL\bin\Debug\Escuela_DAL.dll
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Escuela\Escuela_DAL\bin\Debug\Escuela_DAL.pdb
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Escuela\Escuela_DAL\obj\Debug\Escuela_DAL.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Escuela\Escuela_DAL\obj\Debug\Escuela_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Escuela\Escuela_DAL\obj\Debug\Escuela_DAL.dll
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 5\Escuela\Escuela_DAL\obj\Debug\Escuela_DAL.pdb

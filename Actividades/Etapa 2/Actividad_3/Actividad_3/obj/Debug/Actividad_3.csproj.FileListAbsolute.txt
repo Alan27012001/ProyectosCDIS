@@ -1,0 +1,7 @@
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 2\Actividad_3\Actividad_3\bin\Debug\Actividad_3.exe.config
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 2\Actividad_3\Actividad_3\bin\Debug\Actividad_3.exe
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 2\Actividad_3\Actividad_3\bin\Debug\Actividad_3.pdb
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 2\Actividad_3\Actividad_3\obj\Debug\Actividad_3.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 2\Actividad_3\Actividad_3\obj\Debug\Actividad_3.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 2\Actividad_3\Actividad_3\obj\Debug\Actividad_3.exe
+C:\Users\Alan\Desktop\CDIS\Actividades\Etapa 2\Actividad_3\Actividad_3\obj\Debug\Actividad_3.pdb

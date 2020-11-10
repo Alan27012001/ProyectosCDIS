@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MidatabaseModelStoreContainer" CdmEntityContainer="MidatabaseEntities">
+    <EntitySetMapping Name="facultad">
+      <EntityTypeMapping TypeName="MidatabaseModel.facultad">
+        <MappingFragment StoreEntitySet="facultad">
+          <ScalarProperty Name="Id_Facultad" ColumnName="Id_Facultad" />
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="FechaCreacion" ColumnName="FechaCreacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

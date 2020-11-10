@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="040af30722f24e618e3f353050c9d552" Name="Diagram1" ZoomLevel="85">
+        <EntityTypeShape EntityType="EscuelaModel.Alumno" Width="1.5" PointX="9.75" PointY="6.25" />
+        <EntityTypeShape EntityType="EscuelaModel.Ciudad" Width="1.5" PointX="5.25" PointY="3.5" />
+        <EntityTypeShape EntityType="EscuelaModel.Estado" Width="1.5" PointX="3" PointY="3.5" />
+        <EntityTypeShape EntityType="EscuelaModel.Facultad" Width="1.5" PointX="7.5" PointY="3.125" />
+        <EntityTypeShape EntityType="EscuelaModel.Materia" Width="1.5" PointX="7.5" PointY="7.75" />
+        <EntityTypeShape EntityType="EscuelaModel.MateriaFacultad" Width="1.5" PointX="9.75" PointY="2.5" />
+        <EntityTypeShape EntityType="EscuelaModel.Pais" Width="1.5" PointX="0.75" PointY="3.75" />
+        <EntityTypeShape EntityType="EscuelaModel.Universidad" Width="1.5" PointX="5.25" PointY="0.75" />
+        <EntityTypeShape EntityType="EscuelaModel.Usuario" Width="1.5" PointX="0.75" PointY="6.75" />
+        <AssociationConnector Association="EscuelaModel.FK_Alumno_Facultad_Facultad" />
+        <AssociationConnector Association="EscuelaModel.FK_Ciudad_Estado_IdEstado" />
+        <AssociationConnector Association="EscuelaModel.FK_Facultad_Ciudad_IdCiudad" />
+        <AssociationConnector Association="EscuelaModel.FK_Estado_Pais" />
+        <AssociationConnector Association="EscuelaModel.FK_Facultad_Universidad_Universidad" />
+        <AssociationConnector Association="EscuelaModel.FK_MateriaFacultad_Facultad_IdFacultad" />
+        <AssociationConnector Association="EscuelaModel.FK_MateriaFacultad_Materia" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

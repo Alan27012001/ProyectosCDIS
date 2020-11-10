@@ -1,0 +1,134 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" EnableTheming="true" CodeBehind="VistaGlobaEscuela.master.cs" Inherits="Escuela.VistaGlobaEscuela" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>CDIS</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <!--CDNS-->
+    <!--Para hacerlo responsiva a cualquier dispositivo-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
+    <meta http-equiv="content-language" content="es" />
+    <!--Bootstrap-->
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+    <!--Iconos-->
+    <!--Nota: Siempre debe tener acceso a internet para ver estos iconos-->
+    <link href="//code.ionicframework.com/ionicons/1.5.2/css/ionicons.min.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="css/AdminLTE.css" type="text/css"/>
+    <%--<link href="jAlert/jquery.alerts.css" rel="stylesheet" type="text/css" />--%>
+    <link href="css/datatables/dataTables.bootstrap.css" rel="stylesheet" />
+    <link rel="stylesheet" href=" https://cdn.datatables.net/1.9.4/css/jquery.dataTables.css" /> 
+    <!--Llamda a la hoja de stilos-->
+    <link rel="stylesheet" href="css/VistaGlobal.css"/>
+
+    <!--Llamda a la hoja de stilos-->
+    <link rel="stylesheet" href="App_Themes/Tema1/Admin.css" type="text/css"/>
+    <link rel="stylesheet" href="App_Themes/Tema2/Maestro.css" type="text/css"/>
+    <link rel="stylesheet" href="App_Themes/Tema1/VistaGlobal.css" type="text/css"/>
+    <link rel="stylesheet" href="App_Themes/Tema2/VistaGlobal2.css" type="text/css"/>
+</head>
+<body class="skin-blue">
+    <!--ESTATICO-->
+    <!--Cabecera del sistema-->
+    <header class="header">
+        <!--# : se pone cuando no se sabe hacia donde se va a redireccionar-->
+        <a href="#" class="logo">Sis-Escuela</a>
+        <!--nav: etiqueta para la navegación-->
+        <nav class="navbar navbar-static.top" role="navigation">
+            <a href="#" class="navbar-btn sidebar-toggle" data-toggle="offcanvas" role="button">
+                <span class="sr-only">Toggle Navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </a>
+        </nav>
+    </header>
+    <div class="wrapper row-offcanvas row-offcanvas-left" >
+        <aside class="left-side sidebar-offcanvas">
+            <section class="sidebar">
+                <div class="user-panel">
+                    <div class="pull-left image" style="align-content:center;">
+                        <%--<img src="Imagenes/alan.jpg" class="img-circle" alt="User Image"/>--%>
+                        <asp:Image ID="ImgOpcion" runat="server" CssClass="img-circle" AlternateText="User Image"/>
+                    </div>
+                    <div class="pull-left info">
+                        <asp:Label ID="lblUsuario" runat="server" Text=""></asp:Label>
+                        <br />
+                        <a href="#"><i class="fa fa-circle text-success"></i>En Linea</a>
+                    </div>
+                </div>
+                <ul class="sidebar-menu">
+                    <!--Clase activa para que empiece en ese-->
+                    <li class="active">
+                        <a href="PanelGeneral.aspx">
+                            <i class="fa fa-dashboard"></i>
+                            <span>Facultades</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="Facultad_i.aspx">
+                           <i class="fa fa-th"></i>
+                            <span>Agregar</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="Facultad_s.aspx">
+                           <i class="fa fa-upload"></i>
+                            <span>Ver Registros (LINQ)</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="RegistrosAJAX.aspx">
+                           <i class="fa fa-upload"></i>
+                            <span>Ver Registros (WCF)</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="Login.aspx">
+                           <i class="fa fa-dashboard"></i>
+                            <span>Cerrar Sesión</span>
+                        </a>
+                    </li>
+                </ul>
+            </section>
+        </aside>
+            <aside class="right-side">
+        <section class="content-header">
+            <!--Control de ASP:Label-->
+            <h1>
+                <asp:Label ID="lblMenuOp" runat="server" Text=""></asp:Label>
+            </h1>
+        </section>
+   <!--DINAMICO-->
+        <section class="content">
+          <form id="form1" runat="server">
+            <div>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    <!--Cargará el diseño que hereda de la Master Page-->
+                </asp:ContentPlaceHolder>
+            </div>
+         </form>
+       </section>
+    </aside>
+    </div>
+</body>
+    <!--AQUI SE PONEN LAS LIBRERIAS-->
+    <script src="js/jquery.min.js" type="text/javascript"></script>
+    <script src="js/bootstrap.min.js" type="text/javascript"></script>
+    <%--<script src="js/jquery-ui.min.js" type="text/javascript"></script>--%>
+    <script src="js/AdminLTE/app.js" type="text/javascript"></script>
+    <%--<script src="jAlert/jquery.alerts.js" type="text/javascript"></script>--%>
+    <script src="js/jquery.ui.draggable.js" type="text/javascript"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+   <script src="js/plugins/datatables/jquery.dataTables.js"></script>
+    <script src="js/plugins/datatables/dataTables.bootstrap.js"></script>
+    <%--<script src="js/logout.js"></script>--%>
+     <script type="text/javascript" src="https://cdn.datatables.net/1.9.4/js/jquery.dataTables.min.js"></script>
+</html>
